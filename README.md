@@ -1,2 +1,3 @@
 # Bootstrap-bio-WS
-Bio Website created in Bootstrap
+Bio Website created using Bootstrap , HTML , CSS , JavaScript
+
