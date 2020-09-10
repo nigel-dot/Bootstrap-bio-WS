@@ -1,6 +1,38 @@
 :target {
-  display: block;
-  position: relative;
-  top: -48px;
-  visibility: hidden;
+	display: block;
+	position: relative;
+	top: -48px;
+	visibility: hidden;
+}
+
+h1 {
+	color: orange;
+}
+h2 {
+	color: orange;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	box-shadow: 0 0 10px black;
+}
+.rotatePic {
+	border-radius: 50%;
+	/* transform: rotate(180deg); */
+	transform: scale(0.75) skewY(20deg);
+	box-shadow: 0 0 10px black;
+}
+.carousel-inner {
+	border-radius: 50%;
+	box-shadow: 0 0 10px black;
+}
+/* Footer styling - place at the bottom of page */
+footer {
+	color: orange;
+	text-align: center;
+	/* position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem; */
 }
