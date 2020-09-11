@@ -12,9 +12,24 @@ h2 {
 	color: orange;
 	text-align: center;
 }
+.contactLink {
+	color: orange;
+}
 
 img {
 	border-radius: 50%;
+	box-shadow: 0 0 10px black;
+}
+.project {
+	width: 150px;
+	height: 150px;
+	border-radius: 10%;
+	box-shadow: 0 0 10px black;
+}
+.social {
+	width: 75px;
+	height: 75px;
+	border-radius: 10%;
 	box-shadow: 0 0 10px black;
 }
 .rotatePic {
